@@ -1,0 +1,8 @@
+Sist. Arq.      Tam. Usado Disp. Uso% Montado em
+tmpfs           3,2G  2,5M  3,2G   1% /run
+efivarfs        438K  308K  126K  72% /sys/firmware/efi/efivars
+/dev/nvme0n1p6  194G   23G  161G  13% /
+tmpfs            16G  375M   16G   3% /dev/shm
+tmpfs           5,0M     0  5,0M   0% /run/lock
+/dev/nvme0n1p4 1022M  139M  884M  14% /boot/efi
+tmpfs           3,2G  172K  3,2G   1% /run/user/1000

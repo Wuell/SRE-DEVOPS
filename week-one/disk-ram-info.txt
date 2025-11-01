@@ -1,0 +1,25 @@
+Uptime:
+ 19:41:00 up 41 min,  1 user,  load average: 2,57, 2,63, 2,32
+
+Uso do disco:
+Sist. Arq.      Tam. Usado Disp. Uso% Montado em
+tmpfs           3,2G  2,6M  3,2G   1% /run
+efivarfs        438K  330K  104K  77% /sys/firmware/efi/efivars
+/dev/nvme1n1p6  194G   23G  161G  13% /
+tmpfs            16G  391M   16G   3% /dev/shm
+tmpfs           5,0M     0  5,0M   0% /run/lock
+/dev/nvme1n1p4 1022M  139M  884M  14% /boot/efi
+tmpfs           3,2G  176K  3,2G   1% /run/user/1000
+
+Uso da memoria ram
+               total       usada       livre    compart.  buff/cache  disponível
+Mem.:           31Gi       5,3Gi        21Gi       1,4Gi       4,6Gi        22Gi
+Swap:           17Gi          0B        17Gi
+
+5 processos que estão consumindo mais CPU:
+    PID COMMAND         %CPU %MEM
+   3266 msedge           113  2.5
+   2964 msedge          36.8  0.7
+   2328 gnome-shell     13.6  1.1
+   2183 Xorg            11.5  0.5
+    833 nvidia-powerd    4.7  0.0
