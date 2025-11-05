@@ -66,8 +66,8 @@ Você vai receber um token no seguinte formato:
 
 ## Autenticar próximas requests?
 
-E então, adicionar este mesmo token ao header das próximas requisições:
-
+E  então, adicionar este mesmo token ao header das próximas requisições:
+Linha teste
 ```
 Authorization: Bearer <ACCESS_TOKEN>
 ```
