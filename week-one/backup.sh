@@ -1,7 +1,7 @@
 #! /bin/zsh
 
 dir_in="$HOME/SRE-DEVOPS/shell-script/scripts/backup_teste/"
-backup_dir="$HOME/SRE-DEVOPS/week-one/backup"
+backup_dir="$HOME/SRE-DEVOPS/week-one/backupdir"
 
 echo "Iniciando backup..."
 cd "$dir_in" || exit
